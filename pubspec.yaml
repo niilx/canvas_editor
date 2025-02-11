@@ -1,8 +1,9 @@
 name: canvas_editor
 description: Canvas Editor is a canvas editing tool for add any widget and move, resize and set over the main image or color
-repository: https://github.com/niilx/canvas_editor
 version: 1.0.0
+repository: https://github.com/niilx/canvas_editor
 homepage: https://github.com/niilx/canvas_editor
+issue_tracker: https://github.com/niilx/canvas_editor/issues
 
 environment:
   sdk: ^3.6.0
