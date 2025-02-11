@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text('Canvas Editor Example'),
       ),
-      body: EditorView(
+      body: CanvasEditorView(
         onInitialize: (controller) {
           setState(() {
             _canvasEditorController = controller;
