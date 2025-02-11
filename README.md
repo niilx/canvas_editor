@@ -2,7 +2,9 @@
 
 CanvasEditor allows you to add various widgets over a customizable background (image or color) and provides functionalities to move, resize, rotate, and manipulate these widgets.
 
-![screenshot](path_to_screenshot.png)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/niilx/canvas_editor/main/assets/Record.gif" alt="screenshot">
+</p>
 
 ## Features
 
